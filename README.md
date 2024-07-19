@@ -1,2 +1,3 @@
 # Ayunda-Tugas-Algoritma
-Aplikasi ini di buat bertujuan untuk mendeteksi penyakit pada sapi menggunakan metode Fuzzy Tsukamoto
+Link Dataset : https://drive.google.com/drive/folders/1UbJKJSvSH7AAxUDpbvE2CbxlmKHgDQbT
+link Klasifikasi : https://colab.research.google.com/drive/15Rm6fgyN00BRR-EDaaN-UJrjkautzWew
